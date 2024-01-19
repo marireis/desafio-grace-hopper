@@ -1,9 +1,9 @@
 # Instruções
 ## Temos 4 branch: 
-  desafio1_gracehopper ** (\**)
-  desafio2_gracehopper ** (\**)
-  desafio3_gracehopper ** (\**)
-  desafio4_gracehopper ** (\**)
+  desafio1_gracehopper <br>
+  desafio2_gracehopper <br>
+  desafio3_gracehopper <br>
+  desafio4_gracehopper <br>
 ## É necessário que você dê : git checkout nome_branch (para acessa-la)
 ## Após acessar a branch, crie um arquivo.py com o nome da questão (ex: questao1.py)
 ## Para subir suas alterações os passos são:
