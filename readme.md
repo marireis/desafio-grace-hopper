@@ -7,8 +7,8 @@
 ## É necessário que você dê : git checkout nome_branch (para acessa-la)
 ## Após acessar a branch, crie um arquivo.py com o nome da questão (ex: questao1.py)
 ## Para subir suas alterações os passos são:
-  git add .
-  git commit -m "texto para o commit"
+  git add . <br>
+  git commit -m "texto para o commit" <br>
   git push
 
 # Squad Grace Hopper
