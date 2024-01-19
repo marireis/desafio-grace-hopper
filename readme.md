@@ -1,17 +1,17 @@
-## Instruções
-# Temos 4 branch: 
+# Instruções
+## Temos 4 branch: 
   desafio1_gracehopper
   desafio2_gracehopper
   desafio3_gracehopper
   desafio4_gracehopper
-# É necessário que você dê : git checkout nome_branch (para acessa-la)
-# Após acessar a branch, crie um arquivo.py com o nome da questão (ex: questao1.py)
-# Para subir suas alterações os passos são:
+## É necessário que você dê : git checkout nome_branch (para acessa-la)
+## Após acessar a branch, crie um arquivo.py com o nome da questão (ex: questao1.py)
+## Para subir suas alterações os passos são:
   git add .
   git commit -m "texto para o commit"
   git push
 
-## Squad Grace Hopper
+# Squad Grace Hopper
 1. Adriana Lúcia de França Rodrigues : Desafio-1(Exercícios Conceitos Básicos de Python) - questão 1 | Desafio-2(Exercícios Tomada de Decisão) - questão 2 |Desafio-4(Exercícios Extras de Python) - questão 2 |  
 
 2. Anaisa Mayara Teodoro: Desafio-1(Exercícios Conceitos Básicos de Python) - questão 2 |  Desafio-2(Exercícios Tomada de Decisão) - questão 4 | Desafio-4(Exercícios Extras de Python) - questão 3 
