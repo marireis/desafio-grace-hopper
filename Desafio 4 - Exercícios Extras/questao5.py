@@ -10,4 +10,4 @@ def contar_vogais(frase):
 frase_usuario = input("Digite uma frase: ")
 
 resultado = contar_vogais(frase_usuario)
-print(f"O número de vogais na frase é: {resultado}")
+print(f"O número de vogais na frase é: {resultado}") 
