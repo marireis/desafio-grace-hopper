@@ -1,4 +1,4 @@
-# Larissa Vitória Santos Menezes: Desafio 1 (Exercícios - Conceitos Básicos de Python) - Questão 6
+# Larissa Vitória Santos Menezes: Desafio 1 (Exercícios - Conceitos Básicos de Python) - Questão 6 
 
 # 4. Crie um dicionário representando contatos (nome, telefone).
 # Permita ao usuário procurar por um contato pelo nome.
