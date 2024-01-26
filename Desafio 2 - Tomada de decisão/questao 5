@@ -1,0 +1,26 @@
+#terezinha de jesus ferreira lima
+#5.Desenvolva um programa que solicite ao usuário os comprimentos dos três lados de um triângulo e classifique-o como equilátero, isósceles ou escaleno. 
+
+def classificar_triangulo(lado1, lado2, lado3):
+    if lado1 == lado2 == lado3:
+        return "Equilátero"
+    elif lado1 == lado2 or lado1 == lado3 or lado2 == lado3:
+        return "Isósceles"
+    else:
+        return "Escaleno"
+
+def main():
+    print("Digite os comprimentos dos três lados do triângulo:")
+    lado1 = float(input("Lado 1: "))
+    lado2 = float(input("Lado 2: "))
+    lado3 = float(input("Lado 3: "))
+
+    if lado1 + lado2 > lado3 and lado1 + lado3 > lado2 and lado2 + lado3 > lado1:
+        tipo_triangulo = classificar_triangulo(lado1, lado2, lado3)
+        print(f"O triângulo é {tipo_triangulo}.")
+    else:
+        print("Os comprimentos fornecidos não formam um triângulo válido.")
+
+if __name__ == "__main__":
+    main()
+    
