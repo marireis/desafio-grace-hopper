@@ -1,4 +1,4 @@
-# Larissa Vitória Santos Menezes: Desafio 1 (Exercícios - Conceitos Básicos de Python) - Questão 6
+# Larissa Vitória Santos Menezes: Desafio 1 (Exercícios - Conceitos Básicos de Python) - Questão 6 
 
 #6. Escreva um programa que calcule o tempo de uma viagem. Faça um comparativo do mesmo percurso de avião, carro e ônibus.
 # Levando em consideração: Avião = 600km/h, Carro = 100km/h e Ônibus = 80km/h
