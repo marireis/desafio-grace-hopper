@@ -1,5 +1,5 @@
 #Terezinha de jesus ferreira lima
-10.FaçaumProgramaqueutilize4variáveiscomopreferirenofinalprintumamensagemamigávelutilizandoasvariáveiscriadas.
+# 10.FaçaumProgramaqueutilize4variáveiscomopreferirenofinalprintumamensagemamigávelutilizandoasvariáveiscriadas.
 nome= input ('digite seu nome:')
 cidade= input('onde voce mora?')
 hobby= input('o que gosta de fazer?')

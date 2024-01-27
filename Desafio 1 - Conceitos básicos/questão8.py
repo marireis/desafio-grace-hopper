@@ -6,4 +6,4 @@ horas_trabalhadas = float(input("Digite o número de horas trabalhadas no mês: 
 
 salario_mensal = valor_por_hora * horas_trabalhadas
 
-print(f"Seu salário mensal é: R${salario_mensal:.2f}")
+print(f"Seu salário mensal é: R${salario_mensal:.2f}") 
