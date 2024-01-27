@@ -42,7 +42,7 @@
 - **Desafio-2 (Exercícios Tomada de Decisão) - questão 1**
 - **Desafio-3 (Exercícios Tuplas, Listas e Dicionários) - questão 3**
 
-### 7. Larissa V. Menezes:
+### 7. Larissa Vitória Menezes:
 - **Desafio-1 (Exercícios Conceitos Básicos de Python) - questão 6**
 - **Desafio-3 (Exercícios Tuplas, Listas e Dicionários) - questão 4**
 
