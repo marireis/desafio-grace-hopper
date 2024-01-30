@@ -1,3 +1,4 @@
+<<<<<<<< HEAD:Desafio 2 - Tomada de decisão/questao10.py
 '''10. Faça um programa que lê três números inteiros e os mostra em ordem
 crescente'''
 
